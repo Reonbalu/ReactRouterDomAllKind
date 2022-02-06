@@ -1,0 +1,12 @@
+.form__label {
+  display: block;
+  margin-bottom: 20px;
+}
+
+.form__label > input {
+  margin-left: 10px;
+}
+
+.form__label > select {
+  margin-left: 10px;
+}
